@@ -1,5 +1,6 @@
 # Acoustics
 Several introduce and thoughts on theoretical acoustics by @gmy_acoustics.
+
 关于理论声学的一些介绍和思考。
 
 ## 科研的拟态
@@ -12,4 +13,4 @@ Several introduce and thoughts on theoretical acoustics by @gmy_acoustics.
 
 ## 目录
 ### 序言 什么是声学
-### 理想流体中声波的基本性质
+### 第一章 理想流体中声波的基本性质
